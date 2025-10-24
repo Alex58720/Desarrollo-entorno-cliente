@@ -2,6 +2,7 @@
 Clase entorno
 
 
+De momento esta en master
 
 En este repositorio estan dos de las actividades.
 
