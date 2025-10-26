@@ -2,10 +2,10 @@
 Clase entorno
 
 
-De momento esta en master
+Esta todo en master
 
-En este repositorio estan dos de las actividades.
+En este repositorio estan las tres actividades.
 
 1. GESTOR DE GASTOS
 2. AMPLIACIÓN DE GESTOR DE Presupuestos
-3. 
+3. TAREA FINAL
