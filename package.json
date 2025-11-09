@@ -1,0 +1,18 @@
+{
+  "name": "gestor-datos",
+  "version": "1.0.0",
+  "description": "Práctica de JavaScript: Gestor de Datos",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test2": "node js/gestionpresupuesto-test.js"
+  },
+  "keywords": ["javascript", "gestor", "datos"],
+  "author": "Alex",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
